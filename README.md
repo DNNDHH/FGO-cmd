@@ -1,5 +1,11 @@
-
+V1版本
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/iOulNbE.png">
+
+v2.2版本 （展示战斗过程）
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/C0RBP10.png">
+
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/mOzIZLg.png">
+
 
 # FGO-CMD 
 
