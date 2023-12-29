@@ -1,3 +1,4 @@
+# ⭐FGO-CMD 
 
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/ZBL6HSc.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hSxJ2ca.png">
@@ -9,7 +10,7 @@
 
 
 
-# ⭐FGO-CMD 功能介绍
+# ⭐功能介绍
 
 # 指定关卡循环战斗 ✅
 # 指定好友助战ID ✅
