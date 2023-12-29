@@ -1,10 +1,6 @@
-# ⭐V1版本 （好看的UI。。）
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/iOulNbE.png">
 
-
-
-# ⭐v2.2版本 （程序完成，还没有做UI, 仅展示部分运行过程）
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/C0RBP10.png">
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/ZBL6HSc.png">
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hSxJ2ca.png">
 
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/mOzIZLg.png">
 
