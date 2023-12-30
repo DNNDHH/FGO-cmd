@@ -1,23 +1,5 @@
 # ⭐FGO-CMD 
 
-<账号设定>
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/3kXBky4.png">
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
-
-<战斗POST>
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/pOQeu4c.png">
-
-<友情抽卡>
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
-
-
-
-🧐你号没了..我就笑了~\(≧▽≦)/~  自行斟酌使用 ╮(╯▽╰)╭
-
-
-
-# ⭐功能介绍
-
 # 指定关卡循环战斗 ✅
 # 指定好友助战ID ✅
 # 自动课石头苹果换AP✅
@@ -26,6 +8,24 @@
 # 极速抽友情（1分钟 900爆仓库）✅
 
 
+
+
+
+
+
+#账号设定
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/3kXBky4.png">
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
+
+#战斗POST
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/pOQeu4c.png">
+
+#友情抽卡
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
+
+
+
+🧐你号没了..我就笑了~\(≧▽≦)/~  自行斟酌使用 ╮(╯▽╰)╭
 
 
 # 🥴全面升级……中
