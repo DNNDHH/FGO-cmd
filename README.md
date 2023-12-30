@@ -1,13 +1,13 @@
 # ⭐FGO-CMD 
 
-账号设定
+<账号设定>
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/3kXBky4.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
 
-战斗POST
+<战斗POST>
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/pOQeu4c.png">
 
-友情抽卡
+<友情抽卡>
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
 
 
