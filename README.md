@@ -17,18 +17,24 @@
 # 账号设定
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/3kXBky4.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
+
 # 
 # 
+
 # 一键过章
 (太多了...下拉一下窗口显示全部)
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/qnhWoMi.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/0isByGn.png">
+
 # 
 # 
+
 # 战斗POST
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/pOQeu4c.png">
+
 # 
 # 
+
 # 友情抽卡
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
 
