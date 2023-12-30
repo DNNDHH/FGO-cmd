@@ -29,7 +29,7 @@
 # 友情抽卡
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
 
-# 刷友情点
+# 刷友情点 (默认碎石补AP。。。)
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/vmOlyjP.png">
 
 
