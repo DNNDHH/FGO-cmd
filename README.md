@@ -1,9 +1,16 @@
 # ⭐FGO-CMD 
 
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/ZBL6HSc.png">
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hSxJ2ca.png">
+账号设定
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/3kXBky4.png">
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
 
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/mOzIZLg.png">
+战斗POST
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/pOQeu4c.png">
+
+友情抽卡
+<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
+
+
 
 🧐你号没了..我就笑了~\(≧▽≦)/~  自行斟酌使用 ╮(╯▽╰)╭
 
