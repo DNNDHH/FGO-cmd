@@ -19,8 +19,8 @@
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
 
 
-# 一键过章
-(太多了...下拉一下窗口显示全部)
+# 一键过章 (太多了...下拉一下窗口显示全部)
+
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/qnhWoMi.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/0isByGn.png">
 
