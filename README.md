@@ -4,7 +4,7 @@
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hSxJ2ca.png">
 
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/mOzIZLg.png">
-
+https://github.com/DNNDHH/FGO-cmd/assets/109841184/bcb95125-9a93-474d-85b6-77680b58a26b
 🧐你号没了..我就笑了~\(≧▽≦)/~  自行斟酌使用 ╮(╯▽╰)╭
 
 
