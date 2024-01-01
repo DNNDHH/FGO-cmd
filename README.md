@@ -19,6 +19,7 @@ FGO-CMD
 一键过章
 --------
 * 太多了...下拉一下窗口显示全部
+* 还没做完，只做到 2.1 永久凍土帝国 アナスタシア
 
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/qnhWoMi.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/0isByGn.png">
