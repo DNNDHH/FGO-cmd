@@ -44,7 +44,7 @@
 ❤️大感谢 hexstr 大佬对加解密数据的直接帮助🫡
 https://github.com/hexstr
 
-❤️大感谢Atlas Academy的@ Neo大佬直接提供的服务器密钥🫡
+❤️大感谢Atlas Academy的@ Neo大佬直接提供的密钥和iv🫡
 
 
 
