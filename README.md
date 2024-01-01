@@ -34,7 +34,7 @@ FGO-CMD
 * 默认碎石补AP。。。
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/vmOlyjP.png">
 
-Q其它功能
+其它功能
 --------
 * 设置全局助战职介，
 * 查询好友的SEVID，就是 助战ID
