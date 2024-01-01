@@ -1,4 +1,4 @@
-⭐FGO-CMD 
+⭐FGO-CMD  v3.0
 =====
 
 
