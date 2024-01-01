@@ -1,36 +1,17 @@
 ⭐FGO-CMD 
 =====
 
-指定关卡循环战斗 ✅
--------------
-指定好友助战ID ✅
--------------
-自动课石头苹果换AP✅
--------------
-无限刷友情✅
--------------
-* 小号刷冬木3AP本 选大号为助战 
-  
-一键 自动过章⭕
--------------
-* 半个小时可以从 冬木打到 2.75 断章 。。。 but 我现在只做到 2.1 永久凍土帝国/太累了。。关卡数有亿点点多
-  
-极速抽友情（1分钟 900爆仓库）✅
--------------
-
-
-
-
-
 
 
 账号设定
---------
+-------
+* 设定要登录的账号
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/3kXBky4.png">
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/hAHQ8LR.png">
 
 战斗POST
 --------
+* 自定义 战斗POST
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/pOQeu4c.png">
 
 一键过章
@@ -42,6 +23,7 @@
 
 友情抽卡
 --------
+* 极速抽
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/VeZeAvF.png">
 
 刷友情点
@@ -56,13 +38,6 @@ Q其它功能
 * 加好友功能
 <img width="50%" style="border: 1px solid black" src="https://i.imgur.com/M0wutx1.png">
 
-
-🧐号没了..我就笑了~\(≧▽≦)/~  自行斟酌使用 ╮(╯▽╰)╭
-======
-
-
-🥴全面升级……中
-====
 
 
 ⭐特别鸣谢
@@ -79,5 +54,6 @@ https://github.com/hexstr
 
 ⭐进度
 ========
-* 咕咕咕
- 🥴主程序几个月前就完成了，然后我去玩 01069（蓝色协议）。。忘了
+* 咕咕咕。。。
+* 
+* 主程序几个月前就完成了，然后我去玩 01069（蓝色协议）。。忘了
