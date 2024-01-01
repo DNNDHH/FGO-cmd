@@ -1,5 +1,7 @@
-⭐FGO-CMD  v3.0
+FGO-CMD  
 =====
+* v3.0
+  
 
 
 
