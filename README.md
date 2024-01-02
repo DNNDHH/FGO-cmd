@@ -21,6 +21,9 @@ FGO-CMD
 ===========
 
 * 自定义 战斗POST
+* 掉落材料物品显示
+* 剩余AP显示
+* 自动AP恢复功能（吞石头 吃什么苹果 随你选择）
 ---------------------
 ![](https://i.imgur.com/1A6fiCO.png)
 ![](https://i.imgur.com/wY710Eh.png)
