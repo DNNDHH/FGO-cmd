@@ -26,6 +26,8 @@ FGO-CMD
 * 设置战斗次数，想刷几次刷几次！（别忘了选AP恢复方式）
 * 自动AP恢复功能（吞石头 吃什么苹果 随你选择）
 ---------------------
+https://github.com/DNNDHH/FGO-cmd/assets/109841184/e85a776e-978d-429e-bea8-c1caded6476d.mp4
+
 ![](https://i.imgur.com/1A6fiCO.png)
 ![](https://i.imgur.com/wY710Eh.png)
 
