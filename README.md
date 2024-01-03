@@ -70,9 +70,8 @@ https://github.com/DNNDHH/FGO-cmd/assets/109841184/e85a776e-978d-429e-bea8-c1cad
 * 不知道好友的朋友码，就直接 列出全部好友 ，慢慢找咯
 * 全局助战职介设定，就是选择用哪个职介的助战（此处设定影响全部战斗功能）
 ------------
-https://github.com/DNNDHH/FGO-cmd/assets/109841184/6a2cbcbe-8b81-48fc-a76c-02966ae206f0.mp4
 
-![](https://i.imgur.com/nR6VoaL.png)
+![](https://i.imgur.com/9AIQZux.png)
 
 
 
