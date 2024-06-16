@@ -1,6 +1,6 @@
 FGO-CMD  
 =====
-* v3.5
+* v3.7
 ----------------
 # 注意事项
 * 2024年5月7日起 连接绑定 Aniplex Online 后的游戏账号文件 可以继续使用！没有影响！
@@ -52,13 +52,15 @@ adb shell cp /storage/emulated/0/Android/data/com.aniplex.fategrandorder/files/d
 
 
 
-友情抽卡
+抽卡
 ===========
 
-* 极速抽
+* 快速抽卡
 * 抽卡结果显示
+* 出货检测
+* 自定义抽卡池
 -------------------
-![](https://i.imgur.com/uIujADi.png)
+![](https://i.imgur.com/ShFZRoY.png)
 
 
 刷友情点
